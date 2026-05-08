@@ -1,10 +1,10 @@
 # Tecnologías de Desarrollo de Software
 Material de la asignatura de TDS (Tecnologías de Desarrollo de Software).
 [Documentación](README.md)
-Participantes Gabriel Gianzo Ramón - gabriel.gianzor@um.es 
 
+Participantes 
+Gabriel Gianzo Ramón - gabriel.gianzor@um.es 
 Alejandro Moreno Bernal - alejandro.morenob@um.es 
-
 Alfonso Santos Box - a.santosbox@um.es
 
 Profesor: Jose Antonio García Diaz - joseantonio.garcia8@um.es
